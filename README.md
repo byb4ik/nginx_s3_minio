@@ -7,4 +7,4 @@ cfg.env_example -> cfg.env
 
 docker-compose --env-file cfg.env up
 
-visit ti http://127.0.0.1:9090/login  with  miniadmin / miniadmin
+visit to http://127.0.0.1:9090/login  with  miniadmin / miniadmin
