@@ -5,4 +5,4 @@ git clone https://github.com/byb4ik/nginx_s3_minio.git .
 
 cfg.env_example -> cfg.env
 
-docker-compose --env-file cfg.env down
+docker-compose --env-file cfg.env up
